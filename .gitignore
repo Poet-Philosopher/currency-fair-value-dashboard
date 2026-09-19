@@ -1,0 +1,9 @@
+# Ignore Streamlit secrets
+.streamlit/secrets.toml
+.streamlit/
+
+# Ignore virtual environments and cache
+.venv/
+venv/
+__pycache__/
+.DS_Store
